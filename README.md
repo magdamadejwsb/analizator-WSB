@@ -12,3 +12,7 @@ python -m pip install -r requirements.txt
 
 ## Testowanie kodu
 Do przeprowadzenia testów wykorzystana została biblioteka *pytest*
+Uruchamianie testów:
+```bash
+python -m pytest -v
+```

@@ -5,6 +5,7 @@ from analysis import total_revenue, total_items, most_expensive, average_transac
 
 def main():
     sales = load_sales(Path(__file__).parent / "data" / "sales.csv")
+    print("*** PODSUMOWANIE ***")
     print(f"Przychód: {total_revenue(sales):.2f} zł")
     print(f"Sprzedane sztuki: {total_items(sales)}")
     print(f"Najdroższy produkt: {most_expensive(sales)}")

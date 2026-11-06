@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sales-analyzer-demo"
-version = "1.1.0"
+version = "1.2.0"
 description = "Projekt dydaktyczny do analizy danych sprzedażowych"
 requires-python = ">=3.11"
 

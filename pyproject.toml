@@ -12,4 +12,4 @@ requires-python = ">=3.11"
 sales-analyzer = "main:main"
 
 [tool.setuptools]
-py-modules = ["analysus", "loader", "main"]
+py-modules = ["analysis", "loader", "main"]

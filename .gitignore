@@ -6,3 +6,7 @@ __pycache__
 
 # katalogi testow
 .pytest_cache
+
+# inne katalogi i pliki
+dist/
+*egg-info

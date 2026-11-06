@@ -1,6 +1,7 @@
 # Sales Analyzer — projekt dydaktyczny
+Projekt dydaktyczny mający na celu naukę testowania oraz przygotowania GitHub Actions
 
-# Przygotowanie i uruchamianie projektu
+## Przygotowanie i uruchamianie projektu
 Windows PowerShell:
 
 ```powershell

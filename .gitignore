@@ -3,3 +3,6 @@
 
 #katalogi tymczasowe
 __pycache__
+
+# katalogi testow
+.pytest_cache

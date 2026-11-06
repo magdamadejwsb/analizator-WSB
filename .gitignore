@@ -1,0 +1,5 @@
+# Wirtualne środowisko
+.venv/
+
+#katalogi tymczasowe
+__pycache__

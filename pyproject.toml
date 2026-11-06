@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sales-analyzer-demo"
+version = "1.0.0"
+description = "Projekt dydaktyczny do analizy danych sprzedażowych"
+requires-python = ">=3.11"
+
+[project.scripts]
+sales-analyzer = "main:main"
+
+[tool.setuptools]
+py-modules = ["analysus", "loader", "main"]
